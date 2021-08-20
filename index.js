@@ -40,7 +40,7 @@ module.exports = function noMoreNocteniumLag(dispatch) {
     })
     
     // Detect noctenium activation
-    dispatch.hook('S_ABNORMALITY_BEGIN', 4, {filter: {silenced: null}}, event => {
+    dispatch.hook('S_ABNORMALITY_BEGIN', 5, {filter: {silenced: null}}, event => {
         // if target is your character and noctenium is toggled on, set true
         if (event.target == gameId && noct.includes(event.id)) {
             noctActive = true

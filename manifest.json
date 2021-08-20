@@ -1,16 +1,13 @@
 {
     "files": {
-        "README.md": "adbbd6e73cc69be4d4e8b3d10d282370089d573f32a78aee38456ba529281f13",
-        "config.js": {
-            "overwrite": false,
-            "hash": "4b80feb32c8f4651bf96d9739410da512cf972d8c986bd35fb6375de978c3873"
-        },
-        "index.js": "f4c6678941c44dd22bcf09205f5344399a2442941633ac4ed98e2ca808fed33f",
-        "module.json": "93938a75653baf35e8f5c301b8a6d1833daf264d2be2e25c55f684d7c6f9811e"
+        "README.md": "0876081e9420b27b3e354eeafc4974b72f585a82ecc751508b38ffa0a182b47e",
+        "config.js": "4b80feb32c8f4651bf96d9739410da512cf972d8c986bd35fb6375de978c3873",
+        "index.js": "04f044f1585df1bcadcb3110ade81e2690bd18f218be247d65307f2cc8e84d22",
+        "module.json": "c51741ea170bea1391643026856c3a24654150abc47fa6dc0bd385e5fd18e95e"
     },
     "defs": {
         "C_SHOW_ITEMLIST": "raw",
-        "S_ABNORMALITY_BEGIN": 4,
+        "S_ABNORMALITY_BEGIN": 5,
         "S_ABNORMALITY_END": 1,
         "S_ACTION_STAGE": 9,
         "S_INVEN_USERDATA": "raw",

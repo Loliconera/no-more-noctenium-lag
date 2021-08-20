@@ -1,8 +1,8 @@
-## No More Noctenium Lag
-Tera-Proxy module for Tera Online. Blocks packets which caused client lag when using Noctenium.
-### Known Issues
-* Client side Noctenium amount will not update in-combat until you open your inventory or you run out of Noctenium.
-* Projectile skills (especially gunner's Arcane Barrage and Mana Missiles) are lagged server side when noctenium is active. Having more noctenium in your inventory makes this worse. Because this is server-side, there is no fix. :(
-* Getting the last hit on an achievement mob/boss while using Noctenium may delay achievement unlock client-side. Consuming any consumable in your inventory, advancing a different type of achievement, or relogging your character should fix this.
-### Requirements
-[Tera-Proxy](https://github.com/tera-toolbox/tera-toolbox) and dependencies
+## No más retraso de Noctenium
+Módulo Tera-Proxy para Tera Online. Bloquea los paquetes que causan retrasos en el cliente al usar Noctenium.
+### Problemas conocidos
+* La cantidad de Noctenium del lado del cliente no se actualizará en combate hasta que abras tu inventario o te quedes sin Noctenium.
+* Projectile skills (especialmente gunner's Arcane Barrage y Mana Missiles) se retrasan en el lado del servidor cuando noctenium está activo. Tener más noctenium en su inventario empeora esto. Debido a que esto es del lado del servidor, no hay solución. :(
+* Dar el último golpe a un achievement mob/boss mientras se usa Noctenium puede retrasar el desbloqueo de logros del lado del cliente. Consumir cualquier consumible en tu inventario, avanzar en un tipo diferente de logro o volver a registrar tu personaje debería solucionar este problema.
+### Requisitos
+[Tera-Proxy](https://github.com/tera-toolbox/tera-toolbox) y dependencias
