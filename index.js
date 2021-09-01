@@ -74,7 +74,7 @@ module.exports = function noMoreNocteniumLag(dispatch) {
     })
     
     // Detect combat status
-    dispatch.hook('S_USER_STATUS', 3, event => {
+    dispatch.hook('S_USER_STATUS', 4, event => {
         // if character is your character
         if(event.gameId == gameId) {
             // check if in combat
