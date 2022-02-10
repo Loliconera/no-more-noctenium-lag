@@ -2,7 +2,7 @@
     "files": {
         "README.md": "0876081e9420b27b3e354eeafc4974b72f585a82ecc751508b38ffa0a182b47e",
         "config.js": "4b80feb32c8f4651bf96d9739410da512cf972d8c986bd35fb6375de978c3873",
-        "index.js": "410cac0bcb0c90c1ab087fee302fd025f70bde3aaee5ae5d6c1bfdfcd61ee96d",
+        "index.js": "6b799a503335b56390b0c4f5039aabf1a4f4cea436f5e9589ec1df6d4e786335",
         "module.json": "c51741ea170bea1391643026856c3a24654150abc47fa6dc0bd385e5fd18e95e"
     },
     "defs": {
@@ -12,7 +12,7 @@
         "S_ACTION_STAGE": 9,
         "S_INVEN_USERDATA": "raw",
         "S_ITEMLIST": "raw",
-        "S_LOGIN": [13,14],
+        "S_LOGIN": [13,15],
         "S_UPDATE_ACHIEVEMENT_PROGRESS": "raw",
         "S_USER_STATUS": 4
     }
